@@ -1,0 +1,22 @@
+&record0
+ input_file     = '../testdata/MMOUT_DOMAIN1_001' /
+
+&record1
+ start_year     =  1981
+ start_month    =  1 
+ start_day      =  1
+ start_hour     =  3
+ end_year       =  1981                          
+ end_month      =  1                          
+ end_day        =  11                         
+ end_hour       =  0                           
+ interval       = 10800 /
+
+&record2
+ pressure_bu_no_sfc_Pa = 100000 , 85000 , 70000 ,
+                         50000 , 
+                         30000 /
+                                  
+
+&record3
+ print_info            = .false. /

@@ -1,0 +1,120 @@
+Time periods to process
+Computed valid time 1981-01-01_03:00:00.
+Computed valid time 1981-01-01_06:00:00.
+Computed valid time 1981-01-01_09:00:00.
+Computed valid time 1981-01-01_12:00:00.
+Computed valid time 1981-01-01_15:00:00.
+Computed valid time 1981-01-01_18:00:00.
+Computed valid time 1981-01-01_21:00:00.
+Computed valid time 1981-01-02_00:00:00.
+Computed valid time 1981-01-02_03:00:00.
+Computed valid time 1981-01-02_06:00:00.
+Computed valid time 1981-01-02_09:00:00.
+Computed valid time 1981-01-02_12:00:00.
+Computed valid time 1981-01-02_15:00:00.
+Computed valid time 1981-01-02_18:00:00.
+Computed valid time 1981-01-02_21:00:00.
+Computed valid time 1981-01-03_00:00:00.
+Computed valid time 1981-01-03_03:00:00.
+Computed valid time 1981-01-03_06:00:00.
+Computed valid time 1981-01-03_09:00:00.
+Computed valid time 1981-01-03_12:00:00.
+Computed valid time 1981-01-03_15:00:00.
+Computed valid time 1981-01-03_18:00:00.
+Computed valid time 1981-01-03_21:00:00.
+Computed valid time 1981-01-04_00:00:00.
+Computed valid time 1981-01-04_03:00:00.
+Computed valid time 1981-01-04_06:00:00.
+Computed valid time 1981-01-04_09:00:00.
+Computed valid time 1981-01-04_12:00:00.
+Computed valid time 1981-01-04_15:00:00.
+Computed valid time 1981-01-04_18:00:00.
+Computed valid time 1981-01-04_21:00:00.
+Computed valid time 1981-01-05_00:00:00.
+Computed valid time 1981-01-05_03:00:00.
+Computed valid time 1981-01-05_06:00:00.
+Computed valid time 1981-01-05_09:00:00.
+Computed valid time 1981-01-05_12:00:00.
+Computed valid time 1981-01-05_15:00:00.
+Computed valid time 1981-01-05_18:00:00.
+Computed valid time 1981-01-05_21:00:00.
+Computed valid time 1981-01-06_00:00:00.
+Computed valid time 1981-01-06_03:00:00.
+Computed valid time 1981-01-06_06:00:00.
+Computed valid time 1981-01-06_09:00:00.
+Computed valid time 1981-01-06_12:00:00.
+Computed valid time 1981-01-06_15:00:00.
+Computed valid time 1981-01-06_18:00:00.
+Computed valid time 1981-01-06_21:00:00.
+Computed valid time 1981-01-07_00:00:00.
+Computed valid time 1981-01-07_03:00:00.
+Computed valid time 1981-01-07_06:00:00.
+Computed valid time 1981-01-07_09:00:00.
+Computed valid time 1981-01-07_12:00:00.
+Computed valid time 1981-01-07_15:00:00.
+Computed valid time 1981-01-07_18:00:00.
+Computed valid time 1981-01-07_21:00:00.
+Computed valid time 1981-01-08_00:00:00.
+Computed valid time 1981-01-08_03:00:00.
+Computed valid time 1981-01-08_06:00:00.
+Computed valid time 1981-01-08_09:00:00.
+Computed valid time 1981-01-08_12:00:00.
+Computed valid time 1981-01-08_15:00:00.
+Computed valid time 1981-01-08_18:00:00.
+Computed valid time 1981-01-08_21:00:00.
+Computed valid time 1981-01-09_00:00:00.
+Computed valid time 1981-01-09_03:00:00.
+Computed valid time 1981-01-09_06:00:00.
+Computed valid time 1981-01-09_09:00:00.
+Computed valid time 1981-01-09_12:00:00.
+Computed valid time 1981-01-09_15:00:00.
+Computed valid time 1981-01-09_18:00:00.
+Computed valid time 1981-01-09_21:00:00.
+Computed valid time 1981-01-10_00:00:00.
+Computed valid time 1981-01-10_03:00:00.
+Computed valid time 1981-01-10_06:00:00.
+Computed valid time 1981-01-10_09:00:00.
+Computed valid time 1981-01-10_12:00:00.
+Computed valid time 1981-01-10_15:00:00.
+Computed valid time 1981-01-10_18:00:00.
+Computed valid time 1981-01-10_21:00:00.
+Computed valid time 1981-01-11_00:00:00.  This is the ending time.
+Opened sigma level data for input.
+Opened MMOUTP file for output.
+Opened REGRID file for output.
+Found the end of the time period that we want: 1981-01-01_03:00:00.
+Opened file FILE_MMOUTP:1981-01-01_03 for intermediate format output.
+Found the end of the time period that we want: 1981-01-01_06:00:00.
+Opened file FILE_MMOUTP:1981-01-01_06 for intermediate format output.
+Found the end of the time period that we want: 1981-01-01_09:00:00.
+Opened file FILE_MMOUTP:1981-01-01_09 for intermediate format output.
+Found the end of the time period that we want: 1981-01-01_12:00:00.
+Opened file FILE_MMOUTP:1981-01-01_12 for intermediate format output.
+Found the end of the time period that we want: 1981-01-01_15:00:00.
+Opened file FILE_MMOUTP:1981-01-01_15 for intermediate format output.
+Found the end of the time period that we want: 1981-01-01_18:00:00.
+Opened file FILE_MMOUTP:1981-01-01_18 for intermediate format output.
+Found the end of the time period that we want: 1981-01-01_21:00:00.
+Opened file FILE_MMOUTP:1981-01-01_21 for intermediate format output.
+Found the end of the time period that we want: 1981-01-02_00:00:00.
+Opened file FILE_MMOUTP:1981-01-02_00 for intermediate format output.
+Found the end of the time period that we want: 1981-01-02_03:00:00.
+Opened file FILE_MMOUTP:1981-01-02_03 for intermediate format output.
+Found the end of the time period that we want: 1981-01-02_06:00:00.
+Opened file FILE_MMOUTP:1981-01-02_06 for intermediate format output.
+Found the end of the time period that we want: 1981-01-02_09:00:00.
+Opened file FILE_MMOUTP:1981-01-02_09 for intermediate format output.
+Found the end of the time period that we want: 1981-01-02_12:00:00.
+Opened file FILE_MMOUTP:1981-01-02_12 for intermediate format output.
+Found the end of the time period that we want: 1981-01-02_15:00:00.
+Opened file FILE_MMOUTP:1981-01-02_15 for intermediate format output.
+Found the end of the time period that we want: 1981-01-02_18:00:00.
+Opened file FILE_MMOUTP:1981-01-02_18 for intermediate format output.
+Found the end of the time period that we want: 1981-01-02_21:00:00.
+forrtl: error (69): process interrupted (SIGINT)
+Image              PC                Routine            Line        Source             
+interpb            000000000041E640  Unknown               Unknown  Unknown
+interpb            0000000000406291  Unknown               Unknown  Unknown
+interpb            000000000040336C  Unknown               Unknown  Unknown
+libc.so.6          000000369001EC5D  Unknown               Unknown  Unknown
+interpb            0000000000403269  Unknown               Unknown  Unknown

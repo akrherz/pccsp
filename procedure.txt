@@ -1,0 +1,53 @@
+
+  ISU MRED MM5 Processing Details
+  v0.1 Daryl Herzmann akrherz@iastate.edu
+
+This document outlines the pre and post processing of ISU MM5 data for MRED.
+
+1) Download NARR
+   location: /mnt/tera11/mred/NARR
+
+   # Edit wget.csh to set the years and months you wish to download
+   $ vi wget.csh
+   # Run the download script
+   $ ./wget.csh
+   # Run a script to extract desired Grib fields from whatever was downloaded
+   $ ./compact.py
+
+2) Download CFS
+   location: /mnt/tera11/mred/CFS
+
+   # Download the CFS data from NCEP
+   $ ./fetcher.csh
+
+3) MM5 Preprocessing Step
+   location: /mnt/tera11/mred/
+
+   # Edit DRIVE.csh to edit the amount of data you wish to process at once
+   $ vi DRIVE.csh
+   # Run the script
+   $ ./DRIVE.csh
+
+4) Transfer mm5input data over to derecho
+   location: /mnt/tera11/mred/mm5input
+
+   # Secure copy over one of the directories found in this location to
+   # /ptmp/akrherz/mred/input/
+
+5) Run MM5
+   location: /ptmp/akrherz/mred/MM5_gcm/Run (on derecho)
+
+   # Simply run the script for the CFS model run of your choice
+   $ ./drive.py 1982111100
+
+6) Harvest the MM5 output back to local storage
+   location: /ptmp/akrherz/mred/output (on derecho)
+
+   # Secure copy it to /mnt/tera11/mred/postprocess/data/
+
+7) Convert the output to NetCDF in MRED style
+   location: /mnt/tera11/mred/postprocess/
+
+   # Run the script, again, once per run
+   $ ./master.py 1982111100
+   # Output is placed in /mnt/tera11/mred/postprocess/final/
